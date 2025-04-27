@@ -16,7 +16,7 @@
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "dotenv": "^16.4.5",
-    "firebase": "8.5",
+    "firebase": "10.9.0",
     "lucide-react": "^0.453.0",
     "quill": "^2.0.2",
     "quill-delta-to-plaintext": "^1.0.0",
